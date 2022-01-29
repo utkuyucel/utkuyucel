@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkuyucel)](https://github.com/utkuyucel/utkuyucel)
