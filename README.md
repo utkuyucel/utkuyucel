@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum)
+🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
 
