@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 <br>
 <a href="https://www.hackerrank.com/utkuyucel35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkuyucel35" height="30" width="40" /></a>
   <a><strong><- HackerRank</strong></a>
-
-<a href="https://www.tradingview.com/u/UtkuYucel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/utkuyucel/H5200028utkuyucel/main/logo-preview.png" alt="utkuyucel35" height="30" width="40" /></a>
-<a><strong><- TradingView</strong></a>
 </p>
 
 <br>
