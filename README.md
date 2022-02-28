@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utku-y%c3%bccel-ba59a7170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utku-y%c3%bccel-ba59a7170" height="30" width="40" /></a>
-  <a><strong><- Linkedin</strong></a>
+  <a><strong><- LinkedIn</strong></a>
 <br>
 <a href="https://www.hackerrank.com/utkuyucel35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="utkuyucel35" height="30" width="40" /></a>
+  <a><strong><- HackerRank</strong></a>
 </p>
 <br>
 
