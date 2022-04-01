@@ -51,6 +51,7 @@ Here are some ideas to get you started:
     
 </table>
 
+<br>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
