@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <table class="center">
 <tr> 
           <h3>About Me</h3>
- </tr>
+</tr>
  
-<tr>
+<td>
     <td><a href="https://instagram.com/utkuycel">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a> 
-</tr>
+</td>
   
 <tr>
     <td><a href="https://www.linkedin.com/in/utku-y%C3%BCcel-ba59a7170/">
