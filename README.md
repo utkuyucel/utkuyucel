@@ -28,8 +28,6 @@ Here are some ideas to get you started:
   <a><strong><- HackerRank</strong></a>
 </p>
     
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
-    
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
