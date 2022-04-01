@@ -43,12 +43,6 @@ Here are some ideas to get you started:
 </a> 
 </tr>
 
-<tr>
-<td><a href="https://instagram.com/utkuycel">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a> 
-</tr>
-
 </table>
 <hr>
 
