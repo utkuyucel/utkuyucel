@@ -20,33 +20,33 @@ Here are some ideas to get you started:
 </p>
 
 <table class="center">
-    <tr> 
-      <h3>About Me</h3>
-    </tr>
+<tr> 
+<h3>About Me</h3>
+</tr>
 
-    <tr>
-        <td><a href="https://instagram.com/utkuycel">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-        </a> 
-    </tr>
+<tr>
+<td><a href="https://instagram.com/utkuycel">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a> 
+</tr>
 
-    <tr>
-        <td><a href="https://www.linkedin.com/in/utku-y%C3%BCcel-ba59a7170/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-        </a> 
-     </tr>
+<tr>
+<td><a href="https://www.linkedin.com/in/utku-y%C3%BCcel-ba59a7170/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+</tr>
 
-    <tr>
-        <td><a href="https://open.spotify.com/user/utkuyucel35">
-        <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-        </a> 
-    </tr>
-    
-    <tr>
-        <td><a href="https://www.hackerrank.com/utkuyucel35">
-        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-        </a> 
-    </tr>
+<tr>
+<td><a href="https://open.spotify.com/user/utkuyucel35">
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
+</a> 
+</tr>
+
+<tr>
+<td><a href="https://www.hackerrank.com/utkuyucel35">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a> 
+</tr>
 
     
 </table>
