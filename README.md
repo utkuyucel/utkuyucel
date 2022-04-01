@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <table class="center">
 <tr> 
-          About Me
+          <h1>About Me</h1>
  </tr>
  
 <tr>
