@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 
+<br>
+<hr>
+<br>
+
 </p>
 
 <table class="center">
