@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="SkLearn" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
     
 <hr>
 <h3>Skills:</h3>
@@ -37,8 +40,6 @@ Here are some ideas to get you started:
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 
 <hr>
 <h3>Web3:</h3>
