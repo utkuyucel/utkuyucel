@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 </p>
