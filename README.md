@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 
-<hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
+
+
 <hr>
 </p>
 <h3>Main Skills:</h3>
@@ -85,5 +85,5 @@ Here are some ideas to get you started:
 
 </table>
 <hr>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/utkuyucel/utkuyucel)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkuyucel&label=Profile%20views&color=0e75b6&style=flat" alt="utkuyucel" /> </p>
