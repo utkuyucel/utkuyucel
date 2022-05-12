@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 </a> 
 </tr>
 
-<tr>
+<!-- <tr>
 <td><a href="https://open.spotify.com/user/utkuyucel35">
 <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
 </a> 
-</tr>
+</tr> -->
     
 <tr>
 <td><a href="https://www.coursera.org/user/d95b6f0146e4491c9998452e08eda05a">
