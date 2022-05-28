@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
+I love Game theory.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
