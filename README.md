@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="SkLearn" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
 
