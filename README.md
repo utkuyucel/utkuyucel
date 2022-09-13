@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 -->
 
-🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
 <br>
-<h3>Game Theory has always interested me.</h3>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
