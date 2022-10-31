@@ -44,13 +44,6 @@ Here are some ideas to get you started:
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="36" height="36" alt="Linux" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
 
-<hr>
-<h3>Web3:</h3>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<!-- <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://trufflesuite.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/truffle-colored.svg" width="36" height="36" alt="Truffle" /></a> -->
 </p>
 
 <hr>
