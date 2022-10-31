@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<hr>
 </p>
 <h3>Main Skills:</h3>
 
