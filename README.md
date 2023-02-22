@@ -1,24 +1,6 @@
 ### Hi there It's Utku 👋
 
-<!--
-**utkuyucel/utkuyucel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning Blockchain & Smart Contracts (Particularly on Ethereum w/Solidity)
--->
-
-<br>
-
-<h3>Reach Me!:</h3>
+<h3>Reach Me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utku-yucel/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/utkuyucel35)
