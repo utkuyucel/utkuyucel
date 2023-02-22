@@ -18,63 +18,29 @@ Here are some ideas to get you started:
 
 <br>
 
+<h3>Reach Me!:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utku-yucel/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/utkuyucel35)
+[![DataCamp](https://img.shields.io/badge/DataCamp-03EF62.svg?style=for-the-badge&logo=DataCamp&logoColor=white)](https://www.datacamp.com/profile/utkuyucel35-770a98f7-3e17-41df-9159-7908e112b60f)
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkuyucel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-</p>
-<h3>Main Skills:</h3>
+<h3>Data Stack:</h3>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://numpy.org/images/logo.svg" width="36" height="36" alt="NumPy" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="SkLearn" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+
+<h3>Stack: </h3>
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![Cpp](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 
 
-    
-<hr>
-<h3>Basic Skills:</h3>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
-
-</p>
-
-<hr>
-
-<table class="center">
-<tr> 
-<h3>Me at:</h3>
-</tr>
-
-<tr>
-<td><a href="https://www.linkedin.com/in/utku-y%C3%BCcel-ba59a7170/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a> 
-</tr>
-    
-<tr>
-<td><a href="https://www.hackerrank.com/utkuyucel35">
-<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
-</a> 
-</tr>
-
-<!-- <tr>
-<td><a href="https://open.spotify.com/user/utkuyucel35">
-<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
-</a> 
-</tr> -->
-    
-<tr>
-<td><a href="https://www.coursera.org/user/d95b6f0146e4491c9998452e08eda05a">
-<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
-</a> 
-</tr>
-
-</table>
-<hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkuyucel&label=Profile%20views&color=0e75b6&style=flat" alt="utkuyucel" /> </p>
