@@ -1,9 +1,5 @@
 ### Hi there It's Utku 👋
 
-<h3>Portfolio:</h3>
-<a href = "https://utkuyucel.com/">utkuyucel.com</a>
-
-
 # <h3>Reach Me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/utku-yucel/)
