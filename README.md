@@ -1,6 +1,7 @@
 ### Hi there It's Utku 👋
 
-<h3>Portfolio: <a href = "https://utkuyucel.com/">utkuyucel.com</a></h3>
+<h3>Portfolio:</h3>
+<a href = "https://utkuyucel.com/">utkuyucel.com</a>
 
 
 # <h3>Reach Me:</h3>
