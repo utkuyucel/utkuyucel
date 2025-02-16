@@ -1,4 +1,3 @@
-### Hi there It's Utku 👋
 
 # <h3>Reach Me:</h3>
 
